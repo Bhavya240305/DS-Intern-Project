@@ -1,0 +1,43 @@
+## Output
+
+The notebook produces:
+
+## Charts
+
+- Trading activity over time
+
+- Trader PnL vs market sentiment
+
+- Trade size by sentiment
+
+- Risk vs return analysis
+
+- Trading activity heatmap
+
+- Long vs short distribution
+
+- Top trader leaderboard
+
+
+## Tables
+
+- Daily trader PnL
+
+- Trader segmentation results
+
+- Sentiment-based performance metrics
+
+
+## Tools Used
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
+
+Scikit-learn
